@@ -1,0 +1,17 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "run away",
+      "author": "jack",
+      "borrowed_by": 1,
+      "borrowed_at": "2025-05-25 21:12:18 +0530"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "jason"
+    }
+  ]
+}
